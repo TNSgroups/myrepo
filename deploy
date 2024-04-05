@@ -1,0 +1,8 @@
+#!/bin/ bash 
+
+javac javacode
+
+java odd
+
+cp index.html / var/ www/html
+ 
