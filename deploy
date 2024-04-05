@@ -3,6 +3,6 @@
 javac javacode
 
 java odd
-
+hello
 cp index.html / var/ www/html
  
